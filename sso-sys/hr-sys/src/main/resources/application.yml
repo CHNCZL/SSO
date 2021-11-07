@@ -1,0 +1,8 @@
+server:
+  port: 9999
+
+cas:
+  server-url-prefix: https://java1234.com:8443/cas
+  server-login-url: https://java1234.com:8443/cas/login
+  client-host-url: http://java1234.com:9999
+  validation-type: cas3

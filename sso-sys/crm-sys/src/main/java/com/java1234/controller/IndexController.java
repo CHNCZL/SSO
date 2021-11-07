@@ -7,12 +7,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpSession;
 
-/**
- * @author java1234_小锋
- * @site www.java1234.com
- * @company Java知识分享网
- * @create 2020-10-08 19:44
- */
 @Controller
 public class IndexController {
 
